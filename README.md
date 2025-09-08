@@ -31,8 +31,7 @@ This project teaches how to **build a quiz application** with strong accessibili
 
 ##  Live Demo
 
-[View the live demo on GitHub Pages](#)  
-*(Replace `#` with your actual deployed link when published)*
+[View the live demo on GitHub Pages](https://priyadhar29.github.io/Building_A_Quiz/)  
 
 ---
 
